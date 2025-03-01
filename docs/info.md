@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-A single AND gate
+A simple 4-Bit Adder
 
 ## How to test
 
-A single LED can be connected to the output
+5 LEDS to show the output of the addition
 
 ## External hardware
 
-A single LED
+5 LEDS
